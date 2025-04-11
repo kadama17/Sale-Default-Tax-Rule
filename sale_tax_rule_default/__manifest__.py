@@ -1,6 +1,6 @@
 {
-    'name': 'Sale Default Tax Rule',
-    'version': '1.0',
+    'name': 'Apply Global Tax to Quotations',
+    'version': '17.0',
     'summary': 'Apply a global tax to all order lines in one click',
     'description': 'This module adds a “Global Tax” field in sales quotations. When you select a tax in this field, it will automatically be applied to all order lines, helping you save time and avoid mistakes.',
     'author': 'Kone Adama',
